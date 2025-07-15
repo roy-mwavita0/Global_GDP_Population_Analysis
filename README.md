@@ -55,6 +55,8 @@ This project scrapes, cleans, analyzes, and visualizes **global GDP (Gross Domes
 - [Wikipedia: GDP Data](https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal))
 - [Wikipedia: Population Data](https://en.wikipedia.org/wiki/List_of_countries_by_population_(United_Nations))
 
+## 📄 View the Notebook in HTML Format
+- [Global Socioeconomic Data Analysis - HTML Version](Global_Socioeconomic_Analysis.html)
 
 
 
